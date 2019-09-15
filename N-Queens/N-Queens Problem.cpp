@@ -6,7 +6,6 @@
 // Instead, I create a 1D array, chess_board, only storing the location of the queen of every row.
 // For example, if chess_board[2] == 1, that means a queen can be placed on row 2, column 1.
 // Compared with 2D array solutions, this solution can save more memory space.
-// And I'm used to Python, so C++ OOP is a little confusing... I'll keep learning.
 
 
 #include<iostream>
